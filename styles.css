@@ -32,7 +32,7 @@ body {
 /* TEXT */
 .hero-content {
   position: relative;
-  text-align: center;
+  text-align: top;
   color: white;
   z-index: 1;
 }
